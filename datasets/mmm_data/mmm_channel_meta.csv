@@ -1,0 +1,11 @@
+channel,true_roas_ground_truth,adstock_decay,hill_alpha,hill_gamma,total_spend_2yr,total_revenue_contrib,avg_weekly_spend,spend_cv,dark_weeks,channel_type,funnel_position
+tv_brand,1.8,0.7,0.7,0.3,7166492.34,6954514.59,68908.58,0.701,5,traditional,upper
+paid_search_google,4.2,0.2,0.5,0.6,4987302.99,9869303.36,47954.84,0.467,1,digital,lower
+paid_social_facebook,2.6,0.35,0.6,0.4,4423715.21,5786046.02,42535.72,0.592,0,digital,mid
+paid_social_instagram,2.2,0.3,0.6,0.4,2164464.38,2434199.23,20812.16,0.608,9,digital,mid
+display_programmatic,1.3,0.55,0.8,0.2,1703753.14,1454363.12,16382.24,0.6,6,traditional,upper
+email_marketing,6.5,0.1,0.4,0.7,440021.85,1296105.69,4230.98,0.399,0,digital,lower
+affiliate,3.1,0.15,0.5,0.5,1073098.34,1662043.1,10318.25,0.596,5,digital,lower
+influencer,2.0,0.45,0.7,0.3,1546010.12,1434959.92,14865.48,1.103,13,traditional,mid
+ooh_outdoor,1.5,0.65,0.9,0.2,2725705.71,2864256.3,26208.71,0.761,11,traditional,upper
+podcast_radio,1.9,0.5,0.7,0.3,1442278.5,1582908.56,13868.06,0.741,11,traditional,mid
